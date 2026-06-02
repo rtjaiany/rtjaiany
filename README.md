@@ -61,7 +61,3 @@ My research and technical workflow bridge advanced statistical frameworks and pr
 - 📝 [Currículo Lattes](http://lattes.cnpq.br/1097813774336960)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rtjaiany&show_icons=true&theme=nord" alt="Jaiany's GitHub Stats" />
-</p>
