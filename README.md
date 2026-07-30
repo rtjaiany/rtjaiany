@@ -1,6 +1,6 @@
 # Hi there, I'm Jaiany! 👋
 
-I am a **PhD Candidate at UFRGS** and a **Visiting Fellow at Harvard University**, specializing in **Marketing Analytics, Bayesian Statistical Modeling, and Geospatial Data Science**. My work heavily leverages Bayesian inference, machine learning, and spatial econometrics to solve complex, high-dimensional business problems, such as market entry viability, demand estimation, and consumer behavior analysis.
+I am a **PhD Candidate at UFRGS** and a **Visiting Fellow at Harvard University**, specializing in **Marketing Analytics, Bayesian Statistical Modeling, and Data Science**. My work heavily leverages Bayesian inference, machine learning, and spatial econometrics to solve complex, high-dimensional business problems, such as market entry viability, demand estimation, and consumer behavior analysis.
 
 ---
 
